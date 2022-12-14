@@ -3,3 +3,10 @@
 
 # Media-Segment-Depth-MLP
 drafting Segmentation from mediapipe holistic estimating Depth using BoostingMonocularDepth with an added MLP Model in JAX
+
+https://github.com/1kaiser/Media-Segment-Depth-MLP/blob/main/media/OUTPUT_FILE.mp4
+
+
+
+https://user-images.githubusercontent.com/26379748/207690144-ef9530ac-62a9-459d-8c81-3c513b61c6da.mp4
+
