@@ -1,3 +1,9 @@
+<table>
+<thead>
+<tr>
+<td>
+
+
 
 [![Colab MLP Train and Inference](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Media-Segment-Depth-MLP/blob/main/MLP_Image_JAX.ipynb) >> Colab MLP Image Train and Inference Serial
 
@@ -9,10 +15,41 @@
 [![Colab MLP Train and Inference](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Media-Segment-Depth-MLP/blob/main/MLP_Image_Train_Inference_JAX.ipynb) >> Colab MLP Train and Inference
 
 
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<table>
+<thead>
+<tr>
+<td>
+
+
+
+
 ![Network diagram](https://user-images.githubusercontent.com/3310961/85066930-ad444580-b164-11ea-9cc0-17494679e71f.png)
 
 
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<table>
+<thead>
+<tr>
+<td>
+
+
+
+
+
 [![Colab Image Segmentation](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Media-Segment-Depth-MLP/blob/main/Segmentation_Depth_MLP.ipynb) >> Colab Image Segmentation
+
+
 
 
 # Media-Segment-Depth-MLP
@@ -42,3 +79,10 @@ https://github.com/1kaiser/Media-Segment-Depth-MLP/blob/main/media/OUTPUT_FILE%2
 ```
 https://user-images.githubusercontent.com/26379748/207696727-b5da63f0-b6ab-46b0-93b1-e0a65698729c.mp4
 
+
+
+
+</td>
+</tr>
+</tbody>
+</table>
