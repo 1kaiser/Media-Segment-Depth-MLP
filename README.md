@@ -15,6 +15,9 @@
 [![Colab MLP Train and Inference](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Media-Segment-Depth-MLP/blob/main/MLP_Image_Train_Inference_JAX.ipynb) >> Colab MLP Train and Inference
 
 
+[![Colab MLP Train and Inference](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Media-Segment-Depth-MLP/blob/main/EfficientSAM_example.ipynb) >> Colab **[EfficientSAM_example](https://github.com/yformer/EfficientSAM)**
+
+
 </td>
 </tr>
 </tbody>
