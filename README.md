@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/26379748/207690144-ef9530ac-62a9-459d-
 
 MediaPipe + EfficientSAM
 
-https://github.com/1kaiser/Media-Segment-Depth-MLP/assets/26379748/452827a0-0655-436a-a989-60341c2aee1f
+https://github.com/1kaiser/Media-Segment-Depth-MLP/assets/26379748/452827a0-0655-436a-a989-60341c2aee1f.mp4
 
 
 
