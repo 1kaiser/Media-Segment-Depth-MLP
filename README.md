@@ -69,6 +69,11 @@ https://github.com/1kaiser/Media-Segment-Depth-MLP/blob/main/media/OUTPUT_FILE.m
 ```
 https://user-images.githubusercontent.com/26379748/207690144-ef9530ac-62a9-459d-8c81-3c513b61c6da.mp4
 
+MediaPipe + EfficientSAM
+
+https://github.com/1kaiser/Media-Segment-Depth-MLP/assets/26379748/452827a0-0655-436a-a989-60341c2aee1f
+
+
 
 
 ```
