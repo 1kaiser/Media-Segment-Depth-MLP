@@ -5,6 +5,9 @@
 
 
 
+<a href="https://colab.research.google.com/github/1kaiser/Media-Segment-Depth-MLP/blob/main/2D_Positional_Encoding_Vision_Transformer.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> >> 2D_Positional_Encoding_Vision_Transformer
+
+
 [![Colab MLP Train and Inference](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Media-Segment-Depth-MLP/blob/main/MLP_Image_JAX.ipynb) >> Colab MLP Image Train and Inference Serial
 
 
