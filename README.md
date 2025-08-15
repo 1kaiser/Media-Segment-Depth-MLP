@@ -3,10 +3,9 @@
 <tr>
 <td>
 
-
+<a href="https://colab.research.google.com/github/1kaiser/Media-Segment-Depth-MLP/blob/main/STRING_3D_ViTTiny_Elayers.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> >> JAX STRING_3D performance test using ViTTiny 4 to 12 layers on TPUv8
 
 <a href="https://colab.research.google.com/github/1kaiser/Media-Segment-Depth-MLP/blob/main/2D_Positional_Encoding_Vision_Transformer.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> >> JAX 2D_Positional_Encoding_Vision_Transformer
-
 
 [![Colab MLP Train and Inference](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/1kaiser/Media-Segment-Depth-MLP/blob/main/MLP_Image_JAX.ipynb) >> Colab MLP Image Train and Inference Serial
 
