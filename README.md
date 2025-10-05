@@ -4,7 +4,7 @@
 <td>
 
 
-<a href="https://colab.research.google.com/github/1kaiser/Media-Segment-Depth-MLP/blob/main/nnx_string3d_experiment" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> >> JAX FLAX nnx STRING_3D performance test using ViTTiny 6 layers on TPUv5e1
+<a href="https://colab.research.google.com/github/1kaiser/Media-Segment-Depth-MLP/blob/main/nnx_string3d_experiment.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> >> JAX FLAX nnx STRING_3D performance test using ViTTiny 6 layers on TPUv5e1
 
 <table>
   <tr>
