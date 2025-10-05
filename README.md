@@ -30,6 +30,9 @@
     <td>
       <img src="https://github.com/1kaiser/Media-Segment-Depth-MLP/blob/main/media/80c7e2a0-8afc-44e3-81f7-b80e56ed53ef.png" width="300"/>
     </td>
+    <td>
+      <img src="https://github.com/1kaiser/Media-Segment-Depth-MLP/blob/main/media/97151872-e953-49e9-9954-1fcc65e9385a.png" width="300"/>
+    </td>
   </tr>
 </table>
 
