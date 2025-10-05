@@ -3,6 +3,23 @@
 <tr>
 <td>
 
+
+<a href="https://colab.research.google.com/github/1kaiser/Media-Segment-Depth-MLP/blob/main/nnx_string3d_experiment" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> >> JAX FLAX nnx STRING_3D performance test using ViTTiny 6 layers on TPUv5e1
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/1kaiser/Media-Segment-Depth-MLP/blob/main/media/893c65c6-772a-495f-9e90-7e4de61b88f5.png" width="300"/>
+    </td>
+    <td>
+      <img src="https://github.com/1kaiser/Media-Segment-Depth-MLP/blob/main/media/752baa62-3794-4b1f-8b88-6c86cef966f0.png" width="300"/>
+    </td>
+    <td>
+      <img src="https://github.com/1kaiser/Media-Segment-Depth-MLP/blob/main/media/71971b7a-e3cc-433b-a9d3-500b3a375161.png" width="300"/>
+    </td>
+  </tr>
+</table>
+
 <a href="https://colab.research.google.com/github/1kaiser/Media-Segment-Depth-MLP/blob/main/STRING_3D_ViTTiny_Elayers.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> >> JAX STRING_3D performance test using ViTTiny 4 to 12 layers on TPUv8
 
 <table>
