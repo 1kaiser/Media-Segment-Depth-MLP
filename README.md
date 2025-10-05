@@ -9,13 +9,19 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/1kaiser/Media-Segment-Depth-MLP/blob/main/media/893c65c6-772a-495f-9e90-7e4de61b88f5.png" width="300"/>
+      <img src="https://github.com/1kaiser/Media-Segment-Depth-MLP/blob/main/media/cayley.png" width="300"/>
     </td>
     <td>
-      <img src="https://github.com/1kaiser/Media-Segment-Depth-MLP/blob/main/media/752baa62-3794-4b1f-8b88-6c86cef966f0.png" width="300"/>
+      <img src="https://github.com/1kaiser/Media-Segment-Depth-MLP/blob/main/media/circulant.png" width="300"/>
     </td>
     <td>
-      <img src="https://github.com/1kaiser/Media-Segment-Depth-MLP/blob/main/media/71971b7a-e3cc-433b-a9d3-500b3a375161.png" width="300"/>
+      <img src="https://github.com/1kaiser/Media-Segment-Depth-MLP/blob/main/media/cayley_multiresolution.png" width="300"/>
+    </td>
+    <td>
+      <img src="https://github.com/1kaiser/Media-Segment-Depth-MLP/blob/main/media/circulant_multiresolution.png" width="300"/>
+    </td>
+    <td>
+      <img src="https://github.com/1kaiser/Media-Segment-Depth-MLP/blob/main/media/cayley_Circulant_loss.png" width="300"/>
     </td>
   </tr>
 </table>
